@@ -36,8 +36,9 @@
 ## Painel Administrativo
   
   * user:ssys
-  password:ssys123
-  *
+  * password:ssys123
+  
+ 
   
 
 
